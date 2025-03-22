@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(201, 201, 201);
+}
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 75vh;
+}
+
+.result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(201, 10, 10);
+    color: white;
+}
